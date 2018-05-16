@@ -1,4 +1,4 @@
-# map_pointer_demo
+# Android Map Pointer Demo
 This project is to show the Google Map in an activity and show the pointers in mentioned locations.
 * Targeted Sdk version is 27.
 * Minimum Sdk version is 16.
